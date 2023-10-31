@@ -8,9 +8,14 @@ body {
     color:rgb(124, 4, 30)
 }
 
-.texto {
+.texto roxo {
     text-align: center;
     color:rgb(70, 6, 66);
     font-size: 20px;
 }
 
+.texto rosa {
+    text-align: center;
+    color:rgb(211, 44, 72) 
+    font-size: 20px;
+}
