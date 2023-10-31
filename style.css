@@ -2,12 +2,13 @@ body {
     background-color: rgb(134, 123, 102);
 }
 
-h1 {
+#titulo{
     font-size: 30px;
     text-align: center;
+    color:rgb(124, 4, 30)
 }
 
-p {
+.texto {
     text-align: center;
     color:rgb(70, 6, 66);
     font-size: 20px;
